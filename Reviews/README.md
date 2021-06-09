@@ -1,4 +1,5 @@
 # Reviews App
+An app for searching and booking vacation rentals 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
